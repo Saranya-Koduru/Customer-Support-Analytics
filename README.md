@@ -160,7 +160,7 @@ The analysis was designed around four main stakeholder areas.
 
 8. **Agent outcomes vary across a relatively narrow range**, with resolution rates ranging from **42%–50%**; **Agents 12, 19, and 1** show stronger overall performance and can provide internal benchmarks for improvement.
 
-For the complete insights deep dive across all dashboard sections, [View Insights Deep Dive](<Detailed Insights & Anallysis.md>)
+For the complete insights deep dive across all dashboard sections, [View Insights Deep Dive](<Detailed Insights & Analysis.md>)
 
 # Recommendations
 
@@ -188,7 +188,7 @@ Plan staffing and workload allocation ahead of the **Mar–Jul** period to prepa
 
 # Dashboard
 
-Explore the dashboard pages [here](<Dashboard Screenshots.md>)
+Explore the dashboard [here](<Dashboard Screenshots.pdf>)
 
 ---
 
